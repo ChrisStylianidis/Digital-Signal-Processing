@@ -1,6 +1,12 @@
 # Digital-Signal-Processing
 Digital Signal Processing - Semester 6 of ECE - NTUA
 
+## Course Overview
+
+- **Course Name**: Digital Signal Processing
+- **Semester**: 6
+- **Professor**: Αθανάσιος Ροντογιάννης
+
 ## Contents
 
 1. [Lab 1](lab1/)
@@ -22,4 +28,7 @@ You can click on the links above to access the respective materials. Feel free t
 ## Getting Started
 
 If you want to run the code for the labs, make sure you have Jupyter Notebook installed. You can open the `.ipynb` files in the `lab1` and `lab2` folders to access the Python code and execute the cells.
- 
+
+## Contact
+
+If you have questions or need further information about any of my solutions, please feel free to contact me!
